@@ -1,6 +1,6 @@
 # Image Resizer
 
-A Simple Python desktop tool that batch resizes images while maintaining high quality. Has a simple GUI interface with progress tracking.
+A mimple python desktop tool that batch resizes images while maintaining high quality. Has a simple GUI interface with progress tracking.
 
 ## Features
 
