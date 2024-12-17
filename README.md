@@ -21,8 +21,8 @@ A Python desktop application that batch resizes images while maintaining high qu
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/image-resizer.git
-cd image-resizer
+git clone https://github.com/jfblanchard/batch-image-resize.git
+cd batch-image-resize
 
 # Install dependencies
 pip install Pillow
@@ -32,7 +32,7 @@ pip install Pillow
 
 1. Run the application:
 ```bash
-python image_resizer.py
+python batch_image_resize.py
 ```
 
 2. Click "Browse" to select a folder containing images
@@ -50,11 +50,3 @@ python image_resizer.py
 ## License
 
 MIT
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
